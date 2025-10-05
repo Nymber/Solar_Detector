@@ -15,7 +15,8 @@ Generate a CSV file with:
 1. **Create virtual environment:**
    ```bash
    python3 -m venv solar_env
-   source solar_env/bin/activate
+   source solar_env/bin/activate (MAC)
+   .\solar_env\Scripts\activate (Windows)
    ```
 
 2. **Install dependencies:**
