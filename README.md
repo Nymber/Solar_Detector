@@ -25,7 +25,7 @@ Generate a CSV file with:
 
 3. **Get Google Maps API key:**
    - Go to [Google Cloud Console](https://console.cloud.google.com/)
-   - Enable the Maps Static API
+   - Enable the  Solar API
    - Create an API key
 
 4. **Run the system:**
